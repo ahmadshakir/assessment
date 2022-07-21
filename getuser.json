@@ -59,7 +59,7 @@
         "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/4%20Male.png",
         "name": "John Three",
         "phone": "0133333333",
-        "isActive": true,
+        "isActive": false,
         "index": 3
     },
     {
