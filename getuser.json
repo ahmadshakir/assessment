@@ -1,69 +1,69 @@
 [
     {
-        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/1%20Female.png",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Dafault%20Male.png",
         "name": "John Ten",
         "phone": "0101010101",
         "isActive": true,
         "index": 10
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Dafault%20Female.png",
         "name": "John Eight",
         "phone": "0188888888",
         "isActive": true,
         "index": 8
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/1%20Male.png",
         "name": "John Nine",
         "phone": "019999999",
         "isActive": true,
         "index": 9
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/1%20Female.png",
         "name": "John Six",
         "phone": "016666666",
         "isActive": true,
         "index": 6
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/2%20Male.png",
         "name": "John Seven",
         "phone": "0177777777",
         "isActive": true,
         "index": 7
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/2%20Female.png",
         "name": "John Four",
         "phone": "0144444444",
         "isActive": true,
         "index": 4
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/3%20Male.png",
         "name": "John Five",
         "phone": "0155555555",
         "isActive": true,
         "index": 5
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/3%20Female.png",
         "name": "John Two",
         "phone": "0122222222",
         "isActive": true,
         "index": 2
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/4%20Male.png",
         "name": "John Three",
         "phone": "0133333333",
         "isActive": true,
         "index": 3
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/4%20Female.png",
         "name": "John One",
         "phone": "0111111111",
         "isActive": true,
