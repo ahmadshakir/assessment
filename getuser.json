@@ -1,13 +1,13 @@
 [
     {
-        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Dafault%20Male.png",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Default%20Male.png",
         "name": "John Ten",
         "phone": "0101010101",
         "isActive": true,
         "index": 10
     },
     {
-        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Dafault%20Female.png",
+        "avatar": "https://raw.githubusercontent.com/ahmadshakir/assessment/main/avatar/Default%20Female.png",
         "name": "John Eight",
         "phone": "0188888888",
         "isActive": true,
